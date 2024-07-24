@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Einar Weise - Persönliche Webseite</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1em 0;
+            text-align: center;
+        }
+        main {
+            padding: 2em;
+        }
+        section {
+            margin-bottom: 2em;
+        }
+        h1, h2 {
+            margin: 0 0 0.5em 0;
+        }
+        p {
+            margin: 0 0 1em 0;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Einar Weise</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Projekte</h2>
+            <p>Hier findest du eine Übersicht über meine aktuellen und abgeschlossenen Projekte:</p>
+            <ul>
+                <li><strong>Projekt 1:</strong> Beschreibung von Projekt 1.</li>
+                <li><strong>Projekt 2:</strong> Beschreibung von Projekt 2.</li>
+                <li><strong>Projekt 3:</strong> Beschreibung von Projekt 3.</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Persönliche Aktivitäten</h2>
+            <p>Hier teile ich einige meiner persönlichen Interessen und Aktivitäten:</p>
+            <ul>
+                <li><strong>Aktivität 1:</strong> Beschreibung von Aktivität 1.</li>
+                <li><strong>Aktivität 2:</strong> Beschreibung von Aktivität 2.</li>
+                <li><strong>Aktivität 3:</strong> Beschreibung von Aktivität 3.</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>Kontakt: einar.weise@example.com</p>
+    </footer>
+</body>
+</html>
